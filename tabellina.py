@@ -1,3 +1,4 @@
+# stampa di una tabellina del 4
 
 for i in range(10): 
     print(4*(i+1))
